@@ -15,7 +15,7 @@ variables:
   webAppName: 'java-build'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'javaenv'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
