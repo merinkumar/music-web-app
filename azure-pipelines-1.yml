@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'e7f8ec47-7ae9-4b3a-b8d4-f456bf2844fa'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'java-build'
 
   # Environment name
   environmentName: ''
